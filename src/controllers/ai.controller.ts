@@ -24,7 +24,7 @@ export const generateContext = async (req: Request, res: Response) => {
             {
                 headers: {
                     "Content-Type": "application/json",
-                    "X-goog-api-key": "AIzaSyAsXGN74SUT_XIrMXkIv5DRO7UkcEvWqRg"
+                    "X-goog-api-key": "AIzaSyAuYBuVO1c3A4RbNsHMh_joo0ZUaOmdh0M"
                 }
             }
         )
